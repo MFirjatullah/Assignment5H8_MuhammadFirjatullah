@@ -1,0 +1,17 @@
+:root{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh;
+  background-color: rgb(255, 115, 0);
+}
+
+.table{
+  background-color: rgba(255, 255, 255, 0.527);
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
